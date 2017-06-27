@@ -1,3 +1,5 @@
+Practice exercise from Udemy course - Testing Angular 2/4 application by Mosh
+
 # IntegrationTestingDemo
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.26.
